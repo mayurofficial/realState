@@ -1048,49 +1048,52 @@ a:hover {
 }
 
 .intro .intro-title-top {
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   font-size: 1.2rem;
   color: #f3d4b5;
   letter-spacing: 0.05em;
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 @media (min-width: 768px) {
   .intro .intro-title-top {
     font-size: 1.2rem;
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
   }
 }
 
 @media (min-width: 992px) {
   .intro .intro-title-top {
     font-size: 1.2rem;
-    margin-bottom: 2rem;
+    /* margin-bottom: 2rem; */
   }
 }
 
-.intro .intro-title {
+.intro {
   color: #ffffff;
   font-weight: 700;
-  font-size: 2.8rem;
-  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+.intro-title {
+  color: #ffffff;
+  font-size: 0.8rem;
 }
 
 @media (min-width: 576px) {
   .intro .intro-title {
-    font-size: 3.5rem;
+    font-size: 0.5rem;
   }
 }
 
 @media (min-width: 768px) {
   .intro .intro-title {
-    font-size: 3.5rem;
+    font-size: 0.5rem;
   }
 }
 
 @media (min-width: 992px) {
   .intro .intro-title {
-    font-size: 4rem;
+    font-size: 1rem;
   }
 }
 
