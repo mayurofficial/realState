@@ -1699,30 +1699,30 @@ a:hover {
 }
 
 .card-box-ico {
-  padding: 1rem 3rem 1rem 2.5rem;
+  padding: 1rem 4rem 1rem 1rem;
   border: 5px solid #f3d4b5;
 }
 
 .card-box-ico span {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #000000;
 }
 
 .title-c {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 600;
   margin-left: -40px;
 }
 
 @media (min-width: 768px) {
   .title-c {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
 
 @media (min-width: 992px) {
   .title-c {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
 
